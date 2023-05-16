@@ -1,0 +1,85 @@
+body{
+    background-image: url("images/background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.banner{
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+.hakkimda-wrapper{
+    margin-top: 20px;
+    padding: 20px;
+    background-color:#e7d2ea;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+}
+
+.hakkimda-wrapper h1{
+    font-size: 24px;
+    color: black;
+    margin-bottom: 10px;
+
+}
+
+.hakkimda-wrapper p{
+    color: black;
+    line-height: 1.6;
+}
+
+.hakkimda-wrapper p:last-child {
+    margin-bottom: 0;
+}
+
+.wrapper2 {
+    margin-top: 20px;
+    padding: 20px;
+    background-color:#e5e59e;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+    font-style: italic;
+
+}
+
+
+.wrapper2 .hobilerim h1{
+    font-style: italic;
+}
+
+.content-wrapper .hakkimda-wrapper h1 {
+    font-style: italic;
+}
+
+.wrapper2 .hobilerim .keman{
+    font-style:normal;
+}
+
+.wrapper2 .hobilerim .yer{
+    font-style:normal;
+}
+
+.wrapper2 .hobilerim .doga{
+    font-style:normal;
+}
+
+.keman h2{
+    font-style:italic;
+}
+
+.yer p{
+    font-style:normal;
+}
+
+.doga p{
+    font-style:normal;
+}

@@ -51,6 +51,13 @@ body{
 
 }
 
+.wrapper2 .hobilerim{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
 
 .wrapper2 .hobilerim h1{
     font-style: italic;
@@ -83,3 +90,4 @@ body{
 .doga p{
     font-style:normal;
 }
+

@@ -34,4 +34,10 @@ body{
     box-shadow: 0 2px 4px black;
 }
 
-
+.wrapper-6{
+    margin-top: 20px;
+    padding: 20px;
+    background-color:rgba(225, 191, 231, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+}

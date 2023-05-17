@@ -36,7 +36,7 @@
 }
 
 .navbar ul li a {
-    text-decoration: noe;
+    text-decoration: none;
     color: rgb(11, 0, 11);
 
 }
@@ -123,4 +123,14 @@ body {
     background-color:white;
     color:black;
 
+}
+
+.container{
+    text-align: center;
+}
+
+.container img{
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
 }

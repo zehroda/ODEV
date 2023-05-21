@@ -1,0 +1,139 @@
+body {
+    background-image: url("images/background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+}
+
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e7d2ea;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+    font-style: italic;
+}
+
+.wrapper p {
+    color: black;
+    line-height: 1.6;
+}
+
+.wrapper p:last-child {
+    margin-bottom: 0;
+}
+
+.wrapper h1,
+p {
+    text-align: center;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.wrapper2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e7d2ea;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+    font-style: italic;
+}
+
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+.wrapper2 p {
+    color: black;
+    line-height: 1.6;
+}
+
+
+.wrapper3 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e7d2ea;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+    font-style: italic;
+}
+
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+.wrapper3 p {
+    color: black;
+    line-height: 1.6;
+}
+
+.wrapper4 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e7d2ea;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+    font-style: italic;
+}
+
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+.wrapper4 p {
+    color: black;
+    line-height: 1.6;
+}
+
+.wrapper5 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e7d2ea;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+    font-style: italic;
+}
+
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+.wrapper5 p {
+    color: black;
+    line-height: 1.6;
+}
